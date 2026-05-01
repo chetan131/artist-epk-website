@@ -25,10 +25,10 @@ export const STREAMING = {
 export const BIO = {
   short: "Shevyn Roberts is an Award Winning Recording Artist from Houston, Texas. Known for her dynamic stage presence and powerful storytelling, Shevyn delivers emotionally engaging performances that connect deeply with audiences.",
   full: [
-    \"Shevyn Roberts is an Award Winning Recording Artist known for her commanding stage presence and deep audience connection.\",
-    \"She gained national attention with storytelling-driven music that blends authenticity with commercial appeal.\",
-    \"She has shared stages with globally recognized artists including Justin Bieber and performed at large-scale events, delivering high-energy and emotionally compelling performances.\",
-    \"Rooted in country music, her sound reflects authentic Texas storytelling with a modern edge.\",
+    "Shevyn Roberts is an Award Winning Recording Artist known for her commanding stage presence and deep audience connection.",
+    "She gained national attention with storytelling-driven music that blends authenticity with commercial appeal.",
+    "She has shared stages with globally recognized artists including Justin Bieber and performed at large-scale events, delivering high-energy and emotionally compelling performances.",
+    "Rooted in country music, her sound reflects authentic Texas storytelling with a modern edge.",
   ],
 };
 
